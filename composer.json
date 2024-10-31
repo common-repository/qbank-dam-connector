@@ -1,0 +1,5 @@
+{
+    "require": {
+        "qbnk/qbank3api-phpwrapper": "^3.0"
+    }
+}
